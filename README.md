@@ -6,3 +6,4 @@
     Clear button to reset the input
     
 Feel free to fork, modify, and contribute! 😊
+you can view this calculator at https://m0hamedsharif.github.io/calculatorapp/
