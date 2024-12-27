@@ -3,7 +3,6 @@
  Features:
     Perform basic arithmetic operations: addition, subtraction, multiplication, and division.
     User-friendly interface with a responsive design.
-    Clear button to reset the input.
-    Error handling for invalid operations.
+    Clear button to reset the input
     
 Feel free to fork, modify, and contribute! 😊
